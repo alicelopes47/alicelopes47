@@ -1,4 +1,4 @@
-<h1> Im Alice Lopes, 24, Frontend Developer. </h1>
+<h1> Im Alice Lopes, 26, Frontend Developer. </h1>
 <i>I like art, conceptual visual stuff, love tech and gaming, im passionate with the world that exists between the interception about those universes and love how people can create amazing things in those occasions.</i>
 
 ###
